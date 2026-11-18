@@ -347,7 +347,3 @@ node index.js
 | `/#/demo` | Element Plus 分页等示例页（与上传无关） |
 
 ---
-
-## License
-
-练习项目，仅供学习交流使用。
